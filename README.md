@@ -16,9 +16,6 @@ https://www.notion.so/Primeros-pasos-en-Proyectos-y-tareas-ee8b03c7d3bc49eca2bcc
  ## Link Mock ups
  https://www.figma.com/design/3YRb1Tf1WEY0rYxg2JiyBn/Untitled?node-id=0-1&t=8bfcI00d0cIcwyXa-1
 
-
-## Licencias Creative Commons
-
 ## Licencias Creative Commons
 
 - **Código:**
