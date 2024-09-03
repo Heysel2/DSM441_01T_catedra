@@ -1,6 +1,6 @@
 # DSM441 01T
 
-##Integrantes 
+## Integrantes 
 
 Heysel Guadalupe Argueta Hernández AH230907
 Jaime David Santos Carrillo SC230146
